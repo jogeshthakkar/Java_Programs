@@ -1,7 +1,9 @@
 
-public class Number_Swap {
-	 public static void main(String[] args) {
-		    int x = 10;
+public class Number_Swap 
+{
+	 public static void main(String[] args) 
+	 {
+		  int x = 10;
 		  int y = 20;
 		  
 		  System.out.println("Before swapping x = " + x + " and y = " + y);
@@ -11,5 +13,4 @@ public class Number_Swap {
 
 		  System.out.println("After swapping x = " + x + " and y = " + y);
 		 }
-
 }

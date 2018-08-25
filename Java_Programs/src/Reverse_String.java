@@ -1,8 +1,8 @@
 
-public class Reverse_String {
-
-	public static void main(String[] args) {
-		
+public class Reverse_String 
+{
+	public static void main(String[] args) 
+	{	
 		String s1="Jogesh";
 		int length = s1.length();
 		

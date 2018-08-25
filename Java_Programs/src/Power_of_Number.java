@@ -1,8 +1,8 @@
 
-public class Power_of_Number {
-
-	public static void main(String[] args) {
-		
+public class Power_of_Number 
+{
+	public static void main(String[] args) 
+	{	
 		int number = 3;
 		int power = 4;
 		int sum=1;

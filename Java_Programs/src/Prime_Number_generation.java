@@ -1,7 +1,8 @@
 
-public class Prime_Number_generation {
-
-	public static void main(String[] args) {
+public class Prime_Number_generation 
+{
+	public static void main(String[] args) 
+	{
 		//Prime numbers between one to hundred
 		
 		boolean flag = true;
